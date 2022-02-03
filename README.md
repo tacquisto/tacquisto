@@ -7,9 +7,3 @@ My name is Tanner. I'm a graduate student studying marine geophysics at the Lamo
 ![(https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
 )](https://www.researchgate.net/profile/Tanner-Acquisto)
 
-## Education
-| | | |
-|:--:|:--:|:--:|
-| <img width="100" src="./logos/ldeo_cu.jpg"></img> |Lamont-Doherty Earth Observatory, Columbia University | Ph.D. Marine Geophysics |
-| <img width="100" src="./logos/ipgp_up.jpg"></img> |Institut de Physique du Globe de Paris | MRes Exploration Geophysics |
-| <img width="100" src="./logos/tamu_geo.png"></img> |Texas A&M University |  B.S. Geophysics, Physics|
