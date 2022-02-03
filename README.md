@@ -4,4 +4,8 @@ My name is Tanner. I'm a graduate student studying marine geophysics at the Lamo
 
 With two degrees in geophysics and 4+ years of experience using active source seismic data, I
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+[![Twitter Follow](https://img.shields.io/twitter/follow/SaifAhmedBKNY?style=social)](https://twitter.com/TannerAcquisto)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/TannerAcquisto/)
+[![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
+)](https://www.researchgate.net/profile/Tanner-Acquisto)
+
